@@ -1,0 +1,4 @@
+Helper:cappy:0
+Pressure:cappy2:0
+Potential:cappy3:0
+Wocky:dad:1
